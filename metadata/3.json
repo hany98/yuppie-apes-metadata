@@ -1,7 +1,7 @@
 {
   "name": "My NFT #3",
   "description": "Dynamic metadata NFT",
-  "image": "https://github.com/hany98/yuppie-apes-metadata/images/3.png",
+  "image": "https://hany98.github.io/yuppie-apes-metadata/images/3.png",
   "attributes": [
     { "trait_type": "Level", "value": 3 }
   ]
